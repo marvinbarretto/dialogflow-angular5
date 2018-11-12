@@ -14,7 +14,7 @@ export class AppComponent {
   constructor(){
     this.message = new Message('', 'assets/images/user.png');
     this.messages = [
-      new Message('Welcome to chatbot universe', 'assets/images/bot.png', new Date())
+      new Message('What do you want now?', 'assets/images/bot.png', new Date())
     ];
   }
 }

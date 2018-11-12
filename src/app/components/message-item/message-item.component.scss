@@ -7,10 +7,15 @@
 .timeform {
   float: left;
   width: 100%;
+  
+  padding: 5px 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+  background-color: #EEE;
 
-  i {
-    margin-left: 20px;
-  }
+  // i {
+  //   margin-left: 20px;
+  // }
 
   .timestamp{
     font-size: 0.6em;
