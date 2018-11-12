@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  token: ''
+  token: '20073f3fae144698801a193b087cdc5a'
 };
